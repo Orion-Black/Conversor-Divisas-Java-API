@@ -9,13 +9,14 @@ Este proyecto es una aplicación de escritorio en Java (Swing) que convierte pes
 - Interfaz simple y moderna usando Java Swing.
 - Cálculo especial para conversión MXN → JPY vía USD.
 
-## Captura
-
-![Captura de pantalla](img/captura.png) <!-- Puedes agregar la imagen real cuando la tengas -->
-
 ## Dependencias
 
 - Java 8 o superior
 - [org.json (JSON-java)](https://github.com/stleary/JSON-java)
 
+## Captura
+
+![Captura de pantalla](img/captura.png) <!-- Puedes agregar la imagen real cuando la tengas -->
+
+-------------
 Desarrollado por [OrionBlack].
