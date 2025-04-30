@@ -15,8 +15,10 @@ Este proyecto es una aplicación de escritorio en Java (Swing) que convierte pes
 - [org.json (JSON-java)](https://github.com/stleary/JSON-java)
 
 ## Captura
+<div align="center">
+  ![Captura de pantalla](img/captura.png) <!-- Puedes agregar la imagen real cuando la tengas -->
+</div>
 
-![Captura de pantalla](img/captura.png) <!-- Puedes agregar la imagen real cuando la tengas -->
 
 -------------
 Desarrollado por [OrionBlack].
