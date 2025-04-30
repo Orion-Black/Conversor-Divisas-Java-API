@@ -16,7 +16,8 @@ Este proyecto es una aplicación de escritorio en Java (Swing) que convierte pes
 
 ## Captura
 <div align="center">
-  ![Captura de pantalla](img/captura.png) <!-- Puedes agregar la imagen real cuando la tengas -->
+  <img src= "img/captura.png">
+  
 </div>
 
 
