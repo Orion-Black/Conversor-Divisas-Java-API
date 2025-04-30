@@ -17,7 +17,6 @@ Este proyecto es una aplicación de escritorio en Java (Swing) que convierte pes
 ## Captura
 <div align="center">
   <img src= "img/captura.png">
-  
 </div>
 
 
